@@ -1,1 +1,0 @@
-# cloud_simple_lib
